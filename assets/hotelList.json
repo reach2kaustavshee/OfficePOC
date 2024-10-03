@@ -1,0 +1,130 @@
+[
+    {
+       "id": "12345679EfR",
+       "photos": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0a/37/4a/dc/outdoor-swimming-pool.jpg",
+       "address": "Chhatrapati Shivaji International Airport, Santacruz, Mumbai 400099, India",
+       "title": "Taj Santacruz",
+       "rating": 4.5,
+       "description": "#20 of 738 hotels in Mumbai",
+       "geoPoint": {
+          "latitude": 19.09267,
+          "longitude": 72.85435
+       },
+       "pricePerNight": 2500,
+       "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+    },
+    {
+       "id": "12345756EfR",
+       "address": "Sakinaka, Junction, Andheri - Kurla Rd, Andheri East, Mumbai, Maharashtra 400072, India",
+       "rating": 4.5,
+       "photos": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/f1/1b/60/holiday-inn-mumbai-international.jpg",
+       "title": "Holiday Inn Mumbai International Airport, an IHG Hotel",
+       "description": "#100 of 738 hotels in Mumbai",
+       "geoPoint": {
+          "latitude": 19.10320,
+          "longitude": 72.88722
+       },
+       "pricePerNight": 4500,
+       "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+    },
+    {
+      "id": "12345798EfR",
+      "address": "Cts 215, Andheri - Kurla Rd, opposite Carnival Cinemas, Andheri East, Mumbai, Maharashtra 400059, India",
+      "rating": 4.2,
+      "photos": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/03/8c/22/outdoor-pool.jpg",
+      "title":"Courtyard by Marriott Mumbai International Airport",
+      "description": "#130 of 738 hotels in Mumbai",
+      "geoPoint": {
+         "latitude": 19.097403,
+         "longitude": 72.874245
+      },
+      "pricePerNight": 3500,
+      "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+    }, 
+    {
+      "id": "12675798EfR",
+      "address": "B.J. Road, Bandstand Promenade, Bandra West, Mumbai, Maharashtra 400050, India",
+      "rating": 4.1,
+      "photos": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/98/3b/hlttaj-lands-end-exterior.jpg",
+      "title" : " Taj Lands End, Mumbai",
+      "description": "#140 of 738 hotels in Mumbai",
+      "geoPoint": {
+         "latitude": 19.0439,
+         "longitude": 72.8193
+      },
+      "pricePerNight": 4500,
+      "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+    },
+    {
+      "id": "13475798EfR",
+      "address": "90, Ganesh Murti Nagar, Cuffe Parade, Mumbai, Maharashtra 400005, India",
+      "rating": 4.2,
+      "photos":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/20/5b/6c/lobby-image.jpg",
+      "title": "President, Mumbai - Ihcl Seleqtions",
+      "description": "#200 of 738 hotels in Mumbai",
+      "geoPoint": {
+         "latitude": 18.914734, 
+         "longitude": 72.820724
+      },
+      "pricePerNight": 4200,
+      "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+    },
+    {
+      "id": "13985798EfR",
+      "address": "Apollo Bandar, Colaba, Mumbai, Maharashtra 400001, India",
+      "rating": 4.6,
+      "photos": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/03/e9/b9/68/the-taj-mahal-palace.jpg",
+      "title": "The Taj Mahal Palace, Mumbai",
+      "description": "#160 of 738 hotels in Mumbai",
+      "geoPoint": {
+         "latitude": 18.92199775, 
+         "longitude": 72.8331743
+      },
+      "pricePerNight": 5400,
+      "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+
+    },
+    {
+      "id": "13055798EfR",
+      "address": "131 / B, New Link Rd, Chakala, Andheri East, Mumbai, Maharashtra 400099, India",
+      "rating": 4.4,
+      "photos": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/07/8c/0e/b1/the-mirador.jpg",
+      "title": "The Mirador Hotel",
+      "description": "#260 of 738 hotels in Mumbai",
+      "geoPoint":{
+         "latitude": 19.111311, 
+         "longitude": 72.860519
+      },
+      "pricePerNight": 2900,
+      "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+
+    },
+    {
+      "id": "15155798EfR",
+      "address": "Sahar Village, Andheri East, Mumbai, Maharashtra 400099, India",
+      "rating": 4.0,
+      "photos": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/11/24/3e/8f/itc-maratha-mumbai.jpg",
+      "title": "ITC Maratha, Mumbai - a Luxury Collection Hotel",
+      "description": "#110 of 738 hotels in Mumbai",
+      "geoPoint":{
+         "latitude": 19.10417065, 
+         "longitude": 72.869644
+      },
+      "pricePerNight": 2900,
+      "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+    },
+    {
+      "id": "1515579DFfR",
+      "address": "PD Hinduja Rd, Khar, Marg, Khar West, Mumbai, Maharashtra 400052, India",
+      "rating": 4.0,
+      "photos": "https://content.jdmagicbox.com/v2/comp/mumbai/i6/022pxx22.xx22.120905133823.p1i6/catalogue/the-oriental-residency-khar-west-mumbai-hotels-32rnxl4.jpg",
+      "title": "The Oriental Residency",
+      "description": "#102 of 738 hotels in Mumbai",
+      "geoPoint":{
+         "latitude": 19.0680093, 
+         "longitude": 72.8363606
+      },
+      "pricePerNight": 3100,
+      "amenitiesScreen": [ "Parking" ,"Internet" , "Fitness" ,"Pool" ,"Food & drink","Family", "Pets" ]
+    }
+ ]

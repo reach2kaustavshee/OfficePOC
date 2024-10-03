@@ -1,0 +1,47 @@
+{
+   "data":{
+      0:{
+         "id":"12345679EfR",
+         "photos":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/2c/0e/b1/70/taj-club-city-view-twin.jpg",
+         "address":"Chhatrapati Shivaji International Airport , Santacruz, Mumbai 400099 India",
+         "title":"Taj Santacruz",
+         "rating":4.5,
+         "description":"#20 of 738 hotels in Mumbai",
+         "geoPoint":[
+            "latitude":19.09267,
+            "longitude":72.85435
+         ],
+         "amenitiesScreen":[
+            "title":"Parking",
+            "title":"Internet",
+            "title":"Fitness",
+            "title":"Pool",
+            "title":"Food & drink",
+            "title":"Family",
+            "title":"Pets"
+         ]
+      },
+	1:{
+	    "id":"12345756EfR",
+	"address":"Sakinaka, Junction, Andheri - Kurla Rd, Andheri East, Mumbai, Maharashtra 400072, India",
+         "rating":4.5,
+         "photos":"https://dynamic-media-cdn.tripadvisor.com/media/photo-o/01/f1/1b/60/holiday-inn-mumbai-international.jpg?w=700&h=-1&s=1",
+	"title":"Holiday Inn Mumbai International Airport, an IHG Hotel",
+         "description":"#100 of 738 hotels in Mumbai",
+	"geoPoint"[
+		"latitude":19.10320, 
+		"longitude":72.88722,
+	],
+         "amenitiesScreen":[
+            "title":"Parking",
+            "title":"Internet",
+            "title":"Fitness",
+            "title":"Pool",
+            "title":"Food & drink",
+            "title":"Family",
+            "title":"Pets"
+         ]
+
+	},
+   }
+}
